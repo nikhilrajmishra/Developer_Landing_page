@@ -4,7 +4,7 @@
 }
 .background{
     min-height: 100vh;
-    background-image: url(./image/developer.png);
+    background-image: url(../image/developer.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -95,7 +95,7 @@
 .Sec5{
     background-color: brown;
     color: white;
-    max-width: 49.6%;
+    max-width: 50%;
     height: 100px;
     display: inline-block;
  
